@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+Intentando entender el fork
 =====================================
 
 https://bitcoincore.org
